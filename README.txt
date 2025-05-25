@@ -10,13 +10,6 @@ Welcome to my collection of beginner-level Power BI dashboards! This repository 
 - Data Cleaning & Transformation
 - Interactive Dashboards
 
-📁 Projects
-Each folder in this repository contains:
-- The .pbix Power BI dashboard file
-- The source dataset (if allowed to share)
-- A screenshot/preview of the dashboard
-- A brief description of the insights presented
-
 🧠 What I’ve Learned
 - Connecting and transforming data using Power Query
 - Creating meaningful visualizations
@@ -26,5 +19,3 @@ Each folder in this repository contains:
 📌 Note
 These projects are for learning and portfolio-building purposes. Feedback and suggestions are welcome!
 
-📬 Contact
-Feel free to reach out if you want to collaborate or have questions!
